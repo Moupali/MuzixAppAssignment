@@ -1,4 +1,4 @@
-package com.stackroute.Muzixapp;
+package com.stackroute.Muzixapp.exception;
 
 public class ExceptionResponse {
     private String errorMessage;

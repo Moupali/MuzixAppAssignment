@@ -1,4 +1,4 @@
-package com.stackroute.Muzixapp;
+package com.stackroute.Muzixapp.Feed;
 
 import com.stackroute.Muzixapp.domain.Track;
 import com.stackroute.Muzixapp.repository.TrackRepository;
